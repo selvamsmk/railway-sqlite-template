@@ -22,4 +22,4 @@ if [ ! -f "$seed_already_ran" ] && [ "$schema_not_changed_hash" != "$schema_hash
     echo "Seed complete"
 fi
 
-python wsgi.py /data/database.db
+python wsgi.py /data/nth-discount-store.sqlite3
