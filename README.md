@@ -2,6 +2,8 @@
 
 <h1 align="center">SQLite Template</h1>
 
+Test
+
 SQLite3 is a lightweight, serverless, open-source database engine used for local storage in applications. It requires no configuration and supports SQL for data manipulation.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/jOiNFt?referralCode=chIZYq)
